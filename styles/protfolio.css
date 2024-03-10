@@ -1,0 +1,203 @@
+.header {
+      background-image: url(../images/banner/banner1.png);
+      background-repeat: no-repeat;
+      background-size: 100%;
+      height:1200px;
+      /* width: 1900px; */
+      
+      
+}
+.all-thinks {
+    margin-left: 1300px ;
+    display: flex ;
+    font-size: 65px;
+}
+.heading {
+    margin-top: 250px;
+}
+.small-p {
+    font-size: 16px;
+    margin-left: 1300px;
+   
+}
+.btn-primary {
+    border-radius: 5px;
+    background: #fd6e0a;
+    border: 0;
+    color: white;
+    font-size: 20px;
+    font-weight: 700;
+        padding: 15px 30px;
+    margin-left: 1300px;
+    }
+
+    /* main sectors css  */
+.first-div {
+    display: flex;
+}
+
+    
+    .person-img {
+       margin-left: 250px;
+    }
+    .main-h2 {
+        font-size: 40px;
+        margin-top: 300px;
+        margin-left: 0px;
+        text-align: left;
+    }
+    .second-div {
+        text-align: center;
+        margin-left: 100px;
+    }
+    .p-info {
+        text-align: left;
+        color: #757575;
+        font-size: 20px;
+    }
+
+
+    /* skills 
+     */
+
+     .skill-container {
+        display: flex;
+        margin-left: 250px;
+
+        
+     }
+     .skills {
+        margin-right: 150px;
+        height: 150px;
+        padding: 30px;
+    border-radius: 5px;
+    background-color:#fff;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06)
+    
+     }
+
+.main-h3 {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+
+.last-main {
+    background-image: url(../images/watch.png);
+    background-position: bottom right, left;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 1140px;
+    height: 300px;
+    margin:150px 400px ;
+    position: relative;
+    display: inline-block;
+    
+    
+
+   }
+   .text {
+    position: absolute;
+    top: 15%;
+    /* left: 50%; */
+    /* transform: translate(-50%, -50%); */
+    color: white;
+    font-size: 24px;
+    margin-left: 50px;
+    width: 459px ;
+    
+
+}
+.button {
+    position: absolute;
+    bottom: 100px;
+    right: 70px;
+    /* Adjust button position as per your requirement */
+    padding: 10px 20px;
+    background-color:#ffffff;
+    color:#f15b22;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-right: 900px;
+}
+
+/* footer styles  */
+
+.footer {
+    background-color:black;
+    background-position: 100%;
+    width: 1900px;
+    height:600px;
+    background-repeat: no-repeat;
+    margin: 0;
+    display: flex;
+}
+
+/* first div  */
+.Future {
+    font-size: 45px;
+    color: #f8f8f8;
+    /* background-color: white; */
+    justify-content: space-between;
+}
+.my-personal-info {
+    font-size: 16px;
+    color: #ffffff;
+}
+.my-info {
+  margin-left: 400px;
+  margin-top: 100px;
+  position: absolute;
+}
+.last-icon {
+    margin-right: 25px;
+}
+.subscribe {
+    color: #ffffff;
+   /* margin-left: 1200px; */
+   font-size: 25px;
+}
+.last-form{
+    margin-left: 1200px;
+    margin-top: 150px;
+    /* display: flex;
+    flex-direction: column; */
+    /* align-items: center; */
+}
+
+.button-prime {
+    color: #f15b22;
+    padding: 10px 20px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    /* cursor: right */
+    margin-right: 210px;
+    
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+form input {
+    display: block;
+    color:black;
+    padding: 18px 35px;
+    border-radius: 5px;
+    border-color: #fff;
+    width: 100%;
+    background-color: #181818;
+    margin-bottom: 20px;
+   margin-left: 70px;
+
+}
